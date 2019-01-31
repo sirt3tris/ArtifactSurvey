@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Summary
+This is the outcome of a spontaneous and independent survey contucted on r/Artifact aiming at systematically explore how players approach the game Artifact, how they feel when playing it, and what they like/dislike about it. I wanted to  how players approach the game, how they feel when playing it, and what they like/dislike about it. For this I adapted some items from two psychological questionnaires (The Game Experience Questionnaire - IJsselsteijn, de Kort & Poels 2013; the MEEGA+ Questionnaire - Petri, Gresse von Wangenheim, Borgatto, 2018) and combined them with demographic information, such as how often people play the game and which game modality.
 
-You can use the [editor on GitHub](https://github.com/sirt3tris/ArtifactSurvey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
