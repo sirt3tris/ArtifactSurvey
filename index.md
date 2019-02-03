@@ -1,7 +1,14 @@
 # Introduction
-On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach the game Artifact, how they feel when playing it, and what they like/dislike about it. 
+
+On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact. Since the launch of the game has not been particularly successful, I was interested in understanding how do people feel when playing the game, how often they play it and what they like/dislike about it. 
+I created a survey by adapting two psychological questionnaires that have been previously used to evaluate gaming gaming experience in several contexts: The Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels 2013) and the MEEGA+ Questionnaire (Petri, Gresse von Wangenheim, Borgatto, 2018). I then combined these items with demographic information, such as how often people play the game and which game modality, to contextualize the game evaluation.
+
+# Methods
+
+
+
 ## Methods
-I created a survey by adapting some items from two psychological questionnaires (The Game Experience Questionnaire - IJsselsteijn, de Kort & Poels 2013; the MEEGA+ Questionnaire - Petri, Gresse von Wangenheim, Borgatto, 2018) and combined them with demographic information, such as how often people play the game and which game modality. I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
+I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
 
 
 
