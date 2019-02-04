@@ -1,10 +1,15 @@
 # Introduction
 
 Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement of online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifct launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation in online communities became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
-It is popular opinion that the game price (20$), the monetization system which requires to pay to obtain cards and access the most competitive game modalities, and the lack of a proper ladder and rewards that charachterise most of the competive digital games, are to blame for Artifact insuccess. I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its monetization and reward system. Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? 
+Following the most popular opininons, Artifact insuccess seems to be driven by a combination of factors:
+- The game price is 20$;
+- The monetization system requires to pay to obtain cards and access the most competitive game modalities;
+- The lack of a proper ladder and rewards, which charachterise most of the competive digital games.
+
+I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its monetization and reward system. Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? 
 
 ## The Artifact player experience survey 
-the
+
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how do they feel when playing the game, how often they play it and what they like/dislike about it. I created a survey by adapting two psychological questionnaires that have been previously used to evaluate gaming gaming experience in several contexts: The Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels 2013) and the MEEGA+ Questionnaire (Petri, Gresse von Wangenheim, Borgatto, 2018). I then combined these items with demographic information, such as how often people play the game and which game modality, to contextualize the game evaluation.
 
 
