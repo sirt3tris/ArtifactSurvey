@@ -1,7 +1,7 @@
 # Introduction
 
-Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement of online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifct launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation in online communities became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
-Following the most popular opininons, Artifact insuccess seems to be driven by a combination of factors:
+Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement spread by online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifct launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
+According to the most popular opininons, Artifact insuccess seems to be driven by a combination of factors:
 - The game price is 20$;
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
 - The lack of a proper ladder and rewards, which charachterise most of the competive digital games.
