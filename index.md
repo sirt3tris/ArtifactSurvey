@@ -6,7 +6,7 @@ Following the most popular opininons, Artifact insuccess seems to be driven by a
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
 - The lack of a proper ladder and rewards, which charachterise most of the competive digital games.
 
-I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its monetization and reward system. Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? 
+I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its price, monetization and reward system. Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? 
 
 ## The Artifact player experience survey 
 
