@@ -6,6 +6,11 @@ Artifact is a digital card game developed by Valve and released on November 28th
 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how do they feel when playing the game, how often they play it and what they like/dislike about it. I created a survey by adapting two psychological questionnaires that have been previously used to evaluate gaming gaming experience in several contexts: The Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels 2013) and the MEEGA+ Questionnaire (Petri, Gresse von Wangenheim, Borgatto, 2018). I then combined these items with demographic information, such as how often people play the game and which game modality, to contextualize the game evaluation.
 
+
+
+
+
+
 # Methods
 
 
