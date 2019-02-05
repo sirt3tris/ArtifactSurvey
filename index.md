@@ -9,9 +9,12 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? 
 
+# Methods
 ## The Artifact player experience survey 
 
-On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how do they feel when playing the game, how often they play it and what they like/dislike about it. I created a survey by adapting two psychological questionnaires that have been previously used to evaluate gaming gaming experience in several contexts: The Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels 2013) and the MEEGA+ Questionnaire (Petri, Gresse von Wangenheim, Borgatto, 2018). I then combined these items with demographic information, such as how often people play the game and which game modality, to contextualize the game evaluation.
+On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how do they feel when playing the game, how often they play it and what they like/dislike about it. The survey was developed by adapting several items from two psychological questionnaires that have been previously used to evaluate gaming gaming experience in various contexts: The Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels 2013) and the MEEGA+ Questionnaire (Petri, Gresse von Wangenheim, Borgatto, 2018). The structure of the survey was modular and consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the GEQ core, the GEQ post-gaming and MEEGA+ questionnaires, and consisted in the gaming experience evaluation. Finally the last section aimed at collecting some qualitative data, by asking participants to list 3 positive and negative aspects related to Artifact.
+
+
 
 
 
