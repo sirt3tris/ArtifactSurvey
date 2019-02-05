@@ -17,7 +17,7 @@ The structure of the survey was modular and consisted of 5 sections: the first w
 
 ### 15 dimensional player experience evaluation
 
-The Items of the quantitative sections were rated by participants on a scale from 1 (not at all) to 5 (extremely) and grouped into 15 dimensions:
+The Items of the quantitative sections were rated by participants on a scale from 1 (not at all) to 5 (extremely) and grouped into 15 dimensions, 11 were directly related to the immediate game experience:
 
 - **Immersion**
 - **Annoyance**
@@ -30,6 +30,9 @@ The Items of the quantitative sections were rated by participants on a scale fro
 - **Usability**
 - **Aesthetics**
 - **Social**
+
+The remaining 4 were related to the game experience after-effects:
+
 - **Negative Experience**
 - **Positive Experience**
 - **Tiredness**
