@@ -10,7 +10,7 @@ I tried to follow the development of these and other opinions from their early f
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
 <p align="center">
-<img src="neg_cloud.png" alt="complaints" width="315"/>    <img src="pos_cloud.png" src="positive" width="350"/> </p>
+<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
 
 # Methods
 ## The Artifact player experience survey 
