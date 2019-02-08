@@ -2,41 +2,40 @@
 
 Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement of online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifct launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
 According to the most popular opininons, Artifact insuccess seems to be driven by a combination of factors:
-- The game price is 20$;
+- The lack of a proper ladder and rewards;
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
-- The lack of a proper ladder and rewards, which charachterise most of the competive digital games.
+- The game price is 20$.
 
-I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more ramificated and complex than "just" its price, monetization and reward system. 
+I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
 
 # Methods
 ## The Artifact player experience survey 
 
-The structure of the survey was modular and consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
+The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
 
-### Artifact experience evaluated over 15 dimensions
+### Artifact experience in 15 dimensions
 
 The Items of the quantitative sections were rated by participants on a scale from 1 (not at all) to 5 (extremely) and grouped into 15 dimensions, 11 were directly related to the immediate game experience:
 
-- **Immersion**
-- **Annoyance**
-- **Competence**
-- **Immersion**
-- **Flow**
-- **Negative Affect**
-- **Positive Affect**
-- **Challenge**
-- **Usability**
-- **Aesthetics**
-- **Social**
+- **Immersion.** It is related to the player interest in the game story/lore, the involvement with the game elements and the possibility of being creative and imaginative while playing.
+- **Flow.** If you ever had the feeling of being so focused on something that you lost the sense of time, then you were experiencing flow. This is an important aspect of the gaming experience as it is related with an intrinsic motivation to play.
+- **Positive Affect.** It measures how fun and exciting is the game.
+- **Competence.** It is the sense of being skillful and succesfull in the game.
+- **Challenge.** It's related to the game difficulty, the time pressure and the effort required to play.
+- **Annoyance.** A high score in this dimension indicates that a great sense of tension, frustration and nervousness characterised the gaming experience. 
+- **Negative Affect.** This dimension tries to capture the bad feelings of the player such as boredom, bad mood and low engagement.
+- **Learnabity.** It measures how easily one can start playing the game from scratch, how clear are the rules and the game mechanics. 
+- **Aesthetics.** It evaluates the exterior game's appearence: the graphics, the sound quality as well as the design of cards, boards, and interfaces. 
+- **Social.** Does the game promote cooperation or interaction between players?
 
-The remaining 4 were related to the game experience after-effects:
+The remaining 4 were measuring game experience after-effects:
 
-- **Negative Experience**
-- **Positive Experience**
-- **Tiredness**
-- **Return to Reality**
+- **Negative Experience.** If you felt that playing the game was a waste of time, you felt bad and ashamed about it. 
+- **Positive Experience.** How good was the overall gaming experience? A high score suggest that the game left you with feelings of satisfaction and accomplishments.
+- **Tiredness.** It is a measure for the sense of exhaustion that can be experienced at the end of the play.
+- **Return to Reality.** This dimension evaluate how strongly you were thinking about the game afterwards and how hard it was to come back to reality.
 
 
 
