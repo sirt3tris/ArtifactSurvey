@@ -23,6 +23,7 @@ The Items of the quantitative sections were rated by participants on a scale fro
 - **Immersion.** It is related to the player interest in the game story/lore, the involvement with the game elements and the possibility of being creative and imaginative while playing.
 - **Flow.** If you ever had the feeling of being so focused on something that you lost the sense of time, then you were experiencing flow. This is an important aspect of the gaming experience as it is related with an intrinsic motivation to play.
 - **Positive Affect.** It measures how fun and exciting is the game.
+- **Satisfaction.** Feeling you are progressing due to your effort is an essential aspect of gaming. This feature tries to capture how strong is the player sense of achievement.  
 - **Competence.** It is the sense of being skillful and succesfull in the game.
 - **Challenge.** It's related to the game difficulty, the time pressure and the effort required to play.
 - **Annoyance.** A high score in this dimension indicates that a great sense of tension, frustration and nervousness characterised the gaming experience. 
