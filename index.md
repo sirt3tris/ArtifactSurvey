@@ -38,13 +38,12 @@ The remaining 4 were measuring game experience after-effects:
 - **Return to Reality.** This dimension evaluate how strongly you were thinking about the game afterwards and how hard it was to come back to reality.
 
 
+## Analysis
+
+The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features.
 
 
-
-
-
-
-# Methods
+I didn't have any particular hypothesis  For this reason, and because of the relatively small sample size, I decided not to run any statistical analysis
 
 
 
