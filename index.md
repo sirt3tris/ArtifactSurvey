@@ -43,6 +43,8 @@ The remaining 4 were measuring game experience after-effects:
 
 The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequentt and infrequent players) and examine the correlation patterns among features in the two subgroups. 
 
+<p align="center">
+<img src="playfrequency.png" alt="complaints" width="320"/>  </p>
 
 I didn't have any particular hypothesis  For this reason, and because of the relatively small sample size, I decided not to run any statistical analysis
 
