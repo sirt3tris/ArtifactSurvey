@@ -48,15 +48,17 @@ The goal of the survey was to explore the players gaming habits and their experi
 
 I didn't have any particular hypothesis  For this reason, and because of the relatively small sample size, I decided not to run any statistical analysis
 
-
+<p align="left">
+<img src="resources2.png" alt="resource investment" width="500"/>  </p>
+<p align="left">
+  <i>Resources invested in artifact (sample size = 98)</i><br>
 
 ## Methods
 I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
 <p align="center">
 <img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
 <p align="center">
-  <p style="italic">
-  <b>Wordclouds of the most common negative and positive aspects of Artifact</b><br>
+  <i>Wordclouds of the most common negative and positive aspects of Artifact</i><br>
 
 
 ### Markdown
