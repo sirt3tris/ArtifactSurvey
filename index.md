@@ -9,11 +9,7 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
-<p align="center">
-<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
-<p align="center">
-  <p style="italic">
-  <b>Wordclouds of the most common negative and positive aspects of Artifact</b><br>
+
 
 # Methods
 ## The Artifact player experience survey 
@@ -54,7 +50,11 @@ I didn't have any particular hypothesis  For this reason, and because of the rel
 
 ## Methods
 I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
-
+<p align="center">
+<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
+<p align="center">
+  <p style="italic">
+  <b>Wordclouds of the most common negative and positive aspects of Artifact</b><br>
 
 
 ### Markdown
