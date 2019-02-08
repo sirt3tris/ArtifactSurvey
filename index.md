@@ -12,7 +12,8 @@ On this page you will find the outcome of a spontaneous and independent survey c
 <p align="center">
 <img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
 <p align="center">
-  <b>_Wordclouds of the most common negative and positive aspects of Artifact_</b><br>
+  <p style="italic">
+  <b>Wordclouds of the most common negative and positive aspects of Artifact</b><br>
 
 # Methods
 ## The Artifact player experience survey 
