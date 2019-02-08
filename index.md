@@ -15,6 +15,7 @@ On this page you will find the outcome of a spontaneous and independent survey c
 
 The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
 
+![](/master/artifact_positive-2.png)
 ### Artifact experience in 15 dimensions
 
 The Items of the quantitative sections were rated by participants on a scale from 1 (not at all) to 5 (extremely) and grouped into 15 dimensions, 11 were directly related to the immediate game experience:
