@@ -46,9 +46,7 @@ The goal of the survey was to explore the players gaming habits and their experi
 
 ### A closer look at the participants sample
 
-The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic 
-
-<img src="games.png" alt="game modes" width="400" align="right"> 
+<img src="games.png" alt="game modes" width="400" align="right">  
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
