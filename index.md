@@ -39,13 +39,17 @@ The remaining 4 were measuring game experience after-effects:
 - **Tiredness.** It is a measure for the sense of exhaustion that can be experienced at the end of the play.
 - **Return to Reality.** This dimension evaluate how strongly you were thinking about the game afterwards and how hard it was to come back to reality.
 
-## Analysis
+## Analyses and results
 
 The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. 
 
 
 ### A closer look at the participants sample
-  
+
+The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic 
+
+<img src="games.png" alt="game modes" width="400" align="right"> 
+
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
 
