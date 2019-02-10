@@ -14,7 +14,7 @@ On this page you will find the outcome of a spontaneous and independent survey c
 # Methods
 ## The Artifact player experience survey 
 
-The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
+The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
 
 ### Artifact experience in 15 dimensions
 
@@ -41,7 +41,20 @@ The remaining 4 were measuring game experience after-effects:
 
 ## Analysis
 
-The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
+The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. 
+
+
+### A closer look at the participants sample
+  
+<p align="center">
+<img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
+
+
+How often do people play?
+
+
+
+I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
 <p align="center">
 <img src="gamemodes2.png" alt="game modes" width="500"/>  </p>
 
