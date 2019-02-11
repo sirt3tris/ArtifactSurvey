@@ -91,7 +91,7 @@ The first thing we want to check is our players gaming background. Not surprisin
 
 <br>As one of the current issue of Artifact seems to be the low concurrent player numbers, let's have a look at how often our participant actually play the game compared to other games. 
 <br>
-
+<br>
 <p align="center">
 <img src="playfreq.png" alt="playfrequency" width="1100"/>  </p>
 
