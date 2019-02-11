@@ -105,12 +105,10 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 
 ### Two types of Artifact player
 
-Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game. 
-
-<p align="center">
+<p align="right">
 <img src="resourcess.png" alt="resource investment" width="500"/>  </p>
 <p align="center">
   <i>Resources invested in Artifact by frequent and infrequent players</i><br>
-<br>
-  
+<br>Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful. Instead I am going to show you
+</p>
