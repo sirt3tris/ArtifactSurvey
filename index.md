@@ -48,7 +48,7 @@ The goal of the survey was to explore the players gaming habits and their experi
 
 
 <img src="games.png" alt="" width="400" align="right"/>
-The first thing we want to check is our respondents gaming background. Not surprisingly a large proportion of players mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Quite interestingly two FPS follow the top 3 on the chart: Overwatch and CS:GO, which are overall mentioned by nearly 25% of the respondents. </p>
+The first thing we want to check is our respondents gaming background. Not surprisingly a large proportion of players mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% of the respondents mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
