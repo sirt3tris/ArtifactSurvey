@@ -9,7 +9,7 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 <p align="center">
 <img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
 <p align="center">
-  <i>Wordclouds of the most common negative and positive aspects of Artifact</i><br>
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact</i><br>
 
 I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
