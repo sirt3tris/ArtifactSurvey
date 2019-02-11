@@ -9,9 +9,9 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 <p align="center">
 <img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
 <p align="center">
-  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact</i><br>
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
 
-I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
+I tried to follow the development of these these what aggiungi sostantivo and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
 
@@ -36,7 +36,7 @@ The Items of the quantitative sections were rated by participants on a scale fro
 - **Aesthetics.** The exterior game's appearence: the graphics, the sound quality as well as the design of cards, boards, and interfaces. 
 - **Social.** Does the game promote cooperation or interaction between players?
 
-The remaining 4 were measuring game experience after-effects:
+The remaining 4 dimensions were measuring game experience after-effects:
 
 - **Negative Experience.** If you felt that playing the game was a waste of time, you felt bad and ashamed about it. 
 - **Positive Experience.** How good was the overall gaming experience? A high score suggest that the game left you with feelings of satisfaction and accomplishments.
@@ -47,7 +47,7 @@ The remaining 4 were measuring game experience after-effects:
 
 <img src="gamess.png" alt="" width="270" align="left"/>
 
-<br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 2 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
+<br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 2 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 mmm 105-3-2=100! participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly a large proportion mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
 <br>
 <div style="overflow-x:auto;">
@@ -100,7 +100,7 @@ The pattern of playfrequency appears quite different for Artifact vs other games
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
 
-Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses.
+Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses. metterei anche giù a parole quello che mostri nel grafico, almeno dire quali sono le 2 modalità più citate
 
 
 ### Two types of Artifact player
@@ -110,7 +110,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 <br>Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
-Instead I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together the same ranking shown for the two subgroups. In this way is not possible to draw any general conclusion about 
+Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together the same ranking shown for the two subgroups. In this way is not possible to draw any general conclusion about 
  
  
 
