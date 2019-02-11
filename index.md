@@ -49,8 +49,6 @@ The first thing we want to check is our players gaming background. Not surprisin
 <p align="left">
   <i>What other game do you play besides Artifact?</i><br>
 
-### Playfrequeny and game mode
-
 I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
 
 <p align="center">
