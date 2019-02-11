@@ -47,7 +47,7 @@ The remaining 4 dimensions were measuring game experience after-effects:
 
 <img src="gamess.png" alt="" width="270" align="left"/>
 
-<br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 2 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 mmm 105-3-2=100! participants (2 female, mean age = 27.9 ± 6.5).
+<br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 4 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly a large proportion mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
 <br>
 <div style="overflow-x:auto;">
@@ -95,12 +95,12 @@ The first thing we want to check is our players gaming background. Not surprisin
 <p align="center">
 <img src="playfreq.png" alt="playfrequency" width="1100"/>  </p>
 
-The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently (daily or weekly) plays digital games whereas only 75% frequently play Artifact. Before examining the potential differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
+The pattern of play-frequency appears quite different for Artifact vs other games. More than 95% of the sample frequently (daily or weekly) plays digital games whereas only 75% frequently play Artifact. Before examining the potential differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
 
-Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses. metterei anche giù a parole quello che mostri nel grafico, almeno dire quali sono le 2 modalità più citate
+Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses. The plot shows that the most played game modalities are expert phantom draft and casual draft, accounting for around 64% of the sample. Only a minority of people seems to be mainly active in constructed: around 21% of the participants considering all of the constructed formats.
 
 
 ### Two types of Artifact player
@@ -110,7 +110,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 <br>Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
-Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together the same ranking shown for the two subgroups. In this way is not possible to draw any general conclusion about 
+Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together, followed by the same ranking shown for the two subgroups. In this way is not possible to draw any general conclusion about 
  
  
 
