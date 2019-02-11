@@ -51,7 +51,7 @@ The first thing we want to check is our players gaming background. Not surprisin
 <p align="center">
 <img src="playfreq.png" alt="playfrequency" width="1100"/>  </p>
 
-<br>The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently plays digital games whereas only 75% frequently play Artifact. This already suggest that a proportion of Artifact player is not fully engaged to the game. Before examining the differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
+The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently plays digital games whereas only 75% frequently play Artifact. This already suggest that a proportion of Artifact player is not fully engaged to the game. Before examining the differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
