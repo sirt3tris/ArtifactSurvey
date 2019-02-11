@@ -107,7 +107,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 
 
 <p align="left">
-<img src="resources3.png" alt="resource investment" width="500"/>  </p>
+<img src="resourcess.png" alt="resource investment" width="500"/>  </p>
 <p align="left">
   <i>Resources invested in artifact</i><br>
 I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
