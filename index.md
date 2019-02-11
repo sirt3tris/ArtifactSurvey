@@ -103,11 +103,12 @@ The pattern of playfrequency appears quite different for Artifact vs other games
 Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses.
 
 
-## Two types of Artifact player
+### Two types of Artifact player
 
+Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game. However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups.
 
-<p align="left">
+<p align="center">
 <img src="resourcess.png" alt="resource investment" width="500"/>  </p>
-<p align="left">
-  <i>Resources invested in artifact</i><br>
-I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
+<p align="center">
+  <i>Resources invested in Artifact</i><br>
+<br>
