@@ -45,10 +45,19 @@ The goal of the survey was to explore the players gaming habits and their experi
 
 
 ### A closer look at the participants sample
-<img src="games.png" class="align-right" alt="" width="400">
-<p>sdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslcsdknwslc </p>
 
 
+
+
+
+<img src="games.png" alt="" width="400" align="right"/>
+sdknwslcsdknwslcsdknwslcsdknwsl
+csdknwslcsdk
+csdknwslcsdk
+csdknwslcsdk
+csdknwslcsdk
+csdknwslcsdknwslcsdknws
+lcsdknwslcsdknwslcsdknwslcsdknwslc </p>
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
