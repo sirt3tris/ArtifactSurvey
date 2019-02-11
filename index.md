@@ -45,10 +45,16 @@ The remaining 4 were measuring game experience after-effects:
 
 <br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 2 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly a large proportion mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
-I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
+
+As one of the current issue of Artifact seems to be the low concurrent player numbers, let's have a look at how often our participant actually play the game compared to other games. 
 
 <p align="center">
 <img src="playfreq.png" alt="playfrequency" width="1100"/>  </p>
+
+The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently plays digital games whereas only 75% frequently play Artifact. This already suggest that a proportion of Artifact player is not fully engaged to the game.
+I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
+
+
 
 
 <p align="center">
