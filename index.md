@@ -51,13 +51,34 @@ The first thing we want to check is our players gaming background. Not surprisin
   <tr>
     <th>Game:</th>
     <td>Dota2</td>
-    <td>Dota2</td>
-    <td>Dota2</td>
+    <td>Hearthstone</td>
+    <td>Magic/Mtga</td>
+    <td>Overwatch</td>
+    <td>CS:GO</td>
+    <td>Gwent</td>
+    <td>Starcraft</td>
+    <td>WoW</td>
+    <td>Slay the Spire</td>
+    <td>LoL</td>
+    <td>Eternal</td>
+    <td>TESL</td>
+    <td>Autochess</td>
+    <td>Faeria</td>
   </tr>
   <tr>
     <th>% of players:</th>
     <td>39.36</td>
     <td>26.6</td>
+    <td>19.15</td>
+    <td>13.83</td>
+    <td>9.5</td>
+    <td>8.5</td>
+    <td>7.4</td>
+    <td>4.2</td>
+    <td>3.1</td>
+    <td>3.1</td>
+    <td>3.1</td>
+    <td>2.1</td>
   </tr>
 </table>
 
