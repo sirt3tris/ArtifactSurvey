@@ -24,24 +24,24 @@ The survey consisted of 5 sections: the first was to collect demographic informa
 
 The Items of the quantitative sections were rated by participants on a scale from 1 (not at all) to 5 (extremely) and grouped into 15 dimensions, 11 were directly related to the immediate game experience:
 
-- **Immersion.** It is related to the player interest in the game story/lore, the involvement with the game elements and the possibility of being creative and imaginative while playing.
+- **Immersion.**  The player interest in the game story/lore, the involvement with the game elements and the possibility of being creative and imaginative while playing.
 - **Flow.** If you ever had the feeling of being so focused on something that you lost the sense of time, then you were experiencing flow. This is an important aspect of the gaming experience as it is related with an intrinsic motivation to play.
-- **Positive Affect.** It measures how fun and exciting is the game.
+- **Positive Affect.** How fun and exciting is the game.
 - **Satisfaction.** Feeling you are progressing due to your effort is an essential aspect of gaming. This feature tries to capture how strong is the player sense of achievement.  
-- **Competence.** It is the sense of being skillful and succesfull in the game.
+- **Competence.** The sense of being skillful and succesfull in the game.
 - **Challenge.** It's related to the game difficulty, the time pressure and the effort required to play.
 - **Annoyance.** A high score in this dimension indicates that a great sense of tension, frustration and nervousness characterised the gaming experience. 
-- **Negative Affect.** This dimension tries to capture the bad feelings of the player such as boredom, bad mood and low engagement.
-- **Learnabity.** It measures how easily one can start playing the game from scratch, how clear are the rules and the game mechanics. 
-- **Aesthetics.** It evaluates the exterior game's appearence: the graphics, the sound quality as well as the design of cards, boards, and interfaces. 
+- **Negative Affect.** The bad feelings of the player such as boredom, bad mood and low engagement.
+- **Learnabity.** Measures how easily one can start playing the game from scratch, how clear are the rules and the game mechanics. 
+- **Aesthetics.** The exterior game's appearence: the graphics, the sound quality as well as the design of cards, boards, and interfaces. 
 - **Social.** Does the game promote cooperation or interaction between players?
 
 The remaining 4 were measuring game experience after-effects:
 
 - **Negative Experience.** If you felt that playing the game was a waste of time, you felt bad and ashamed about it. 
 - **Positive Experience.** How good was the overall gaming experience? A high score suggest that the game left you with feelings of satisfaction and accomplishments.
-- **Tiredness.** It is a measure for the sense of exhaustion that can be experienced at the end of the play.
-- **Return to Reality.** This dimension evaluate how strongly you were thinking about the game afterwards and how hard it was to come back to reality.
+- **Tiredness.** The sense of exhaustion that can be experienced at the end of the play.
+- **Return to Reality.** How strongly you were thinking about the game afterwards and how hard it was to come back to reality.
 
 ## A closer look at the participants sample
 
