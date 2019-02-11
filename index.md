@@ -67,10 +67,10 @@ The first thing we want to check is our players gaming background. Not surprisin
   </tr>
   <tr>
     <th>% of players:</th>
-    <td>39.36</td>
+    <td>39.3</td>
     <td>26.6</td>
-    <td>19.15</td>
-    <td>13.83</td>
+    <td>19.1</td>
+    <td>13.8</td>
     <td>9.5</td>
     <td>8.5</td>
     <td>7.4</td>
