@@ -6,6 +6,11 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
 - The game price is 20$.
 
+<p align="center">
+<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
+<p align="center">
+  <i>Wordclouds of the most common negative and positive aspects of Artifact</i><br>
+
 I tried to follow the development of these and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
@@ -85,64 +90,24 @@ The first thing we want to check is our players gaming background. Not surprisin
 </table>
   </div>
 
-
-
-
 <br>As one of the current issue of Artifact seems to be the low concurrent player numbers, let's have a look at how often our participant actually play the game compared to other games. <br>
 
 <p align="center">
 <img src="playfreq.png" alt="playfrequency" width="1100"/>  </p>
 
-The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently plays digital games whereas only 75% frequently play Artifact. This already suggest that a proportion of Artifact player is not fully engaged to the game. Before examining the differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
+The pattern of playfrequency appears quite different for Artifact vs other games. More than 95% of the sample frequently (daily or weekly) plays digital games whereas only 75% frequently play Artifact. Before examining the potential differences between these two subgroups, I want to first show the most played Artifact game modalities by pooling data from the global sample. 
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
 
+Respondents where asked to indicate their most played Artifact game modality. They were allowed to indicate only one preference. I decided to group together the categories Draft tournaments and Constructed tournaments because of the low amount of responses.
 
-The goal of the survey was to explore the players gaming habits and their experiences with Artifact. I further wanted to compare the most common opinions on why the game is not popular, with the information collected with a more systematic approach. 
-I didn't have any particular hypothesis  For this reason, and because of the relatively small sample size, I decided not to run any statistical analysis
+
+## Two types of Artifact player
+
 
 <p align="left">
 <img src="resources3.png" alt="resource investment" width="500"/>  </p>
 <p align="left">
   <i>Resources invested in artifact</i><br>
-
-## Methods
 I posted the survey on r/Artifact and invited users who played at least 6h since the launch of the game.
-<p align="center">
-<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
-<p align="center">
-  <i>Wordclouds of the most common negative and positive aspects of Artifact</i><br>
-
-
-### Markdown
-aiming
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sirt3tris/ArtifactSurvey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
