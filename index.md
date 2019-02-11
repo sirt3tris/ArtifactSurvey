@@ -110,7 +110,7 @@ Before we start looking at the outcome of the game evaluation, it's worth noting
 <p align="center">
 <img src="resourcess.png" alt="resource investment" width="500"/>  </p>
 <p align="center">
-  <i>Resources invested in Artifact</i><br>
+  <i>Resources invested in Artifact by frequent and infrequent players</i><br>
 <br>
   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful. Instead I am going to show you
