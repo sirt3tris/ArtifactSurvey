@@ -45,10 +45,6 @@ The remaining 4 were measuring game experience after-effects:
 
 <br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 2 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly a large proportion mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
-
-<p align="left">
-  <i>What other game do you play besides Artifact?</i><br>
-
 I will first show some summary statistics by pooling data from the global sample: how often people play Artifact and other games, which game mode is the most popular and finally the ranking of the above mentioned 15 game experience features. I will then try to split the sample into two subgroups based on the play frequency (frequent and infrequent players) and examine the correlation patterns among features in the two subgroups. 
 
 <p align="center">
