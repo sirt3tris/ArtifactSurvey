@@ -51,13 +51,7 @@ The goal of the survey was to explore the players gaming habits and their experi
 
 
 <img src="games.png" alt="" width="400" align="right"/>
-sdknwslcsdknwslcsdknwslcsdknwsl
-csdknwslcsdk
-csdknwslcsdk
-csdknwslcsdk
-csdknwslcsdk
-csdknwslcsdknwslcsdknws
-lcsdknwslcsdknwslcsdknwslcsdknwslc </p>
+The first thing we want to check is our respondents gaming background.  </p>
 
 <p align="center">
 <img src="gamemodes3.png" alt="game modes" width="500"/>  </p>
