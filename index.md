@@ -75,6 +75,8 @@ The first thing we want to check is our players gaming background. Not surprisin
     <td>8.5</td>
     <td>7.4</td>
     <td>4.2</td>
+    <td>4.2</td>
+    <td>3.1</td>
     <td>3.1</td>
     <td>3.1</td>
     <td>3.1</td>
