@@ -47,7 +47,7 @@ The remaining 4 were measuring game experience after-effects:
 The first thing we want to check is our players gaming background. Not surprisingly a large proportion mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample play card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
 
 
-<table style="width:100%">
+<table style="width:200">
   <tr>
     <th>Game:</th>
     <td>Dota2</td>
