@@ -111,7 +111,7 @@ However, because of the small sample size and the unbalance between the groups (
 </p>
 
 
-<table align="center">
+<table align="right">
   <tr>
     <th>Group:</th>
     <td>Frequent players</td>
