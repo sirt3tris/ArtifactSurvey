@@ -105,12 +105,38 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 
 ### Two types of Artifact player
 
-
 <img src="resourcess.png" alt="resource investment" width="500" align= "right"/>  </p>
 <br>Before we start looking at the outcome of the game evaluation, it's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
-Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together, followed by the same ranking shown for the two subgroups. In this way is possible to have a general idea of the gaming experience characterizing the whole sample and the differences between two subgroups (without drawing any conclusion on the general population)
+
+<div style="width:100%"">
+<table>
+  <tr>
+    <th>Group:</th>
+    <td>Frequent players</td>
+    <td>Infrequent players</td>
+  </tr>
+  <tr>
+    <th>sample size:</th>
+    <td>77</td>
+    <td>21</td>
+  </tr>
+   <th>Mean amount of hours:</th>
+    <td>113.8</td>
+    <td>52.5</td>
+  </tr>
+    <tr>
+     <th>Mean amount of money ($):</th>
+    <td>62.7</td>
+    <td>31.2</td>
+      </tr>
+</table>
+  </div>
+  
+Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by all of the participants grouped together, followed by the same ranking shown for the two subgroups. In this way is possible to have a general idea of the gaming experience characterizing the whole sample and the differences between two subgroups (without drawing any conclusion on the general population).
+
+
  
  
 
