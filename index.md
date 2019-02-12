@@ -110,7 +110,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
 
-<table align="right" style="margin: 0px auto;">
+<table>
   <tr>
     <th>Group:</th>
     <td>Frequent players</td>
