@@ -135,7 +135,7 @@ Instead what I am going to show you in the following sections is the "ranking" o
 ## Two types of Artifact player
 
 <img src="rating_core2.png" alt="" width="800" align="center">
-
+<img src="rating_post.png" alt="" width="800" align="center">
 
 
  
