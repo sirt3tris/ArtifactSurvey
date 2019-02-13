@@ -146,7 +146,7 @@ The 4th and 5th positions of the both charts are occupied by competence and chal
 It is worth mentioning that for both groups, Artifact learnability is relatively low, which means that the game rules are perceived as complex and not easy to grasp from the tutorial. Also worth noting that the social aspects of the game fill the bottom three chart for both groups. This means that the game is not considered to be interactive or that cooperation and competition are not incentivized. Quite interesting for a card game that tries to deliver a "kitchen table" experience.
 Finally, while frequent player experience an average flow of around 3.5, for infrequent player this is one of the worst rated features. The sense of flow is the experience of deep concentration, dedication and engagement,  typical of someone enjoying a certain activity. It is also related with an intrinsic motivation to perform that activity, which make it inherently rewarding. 
 
-<p align="center">
+<p align="right">
 <img src="rating_post.png" alt="" width="600" align="center"/>
 </p>
 
