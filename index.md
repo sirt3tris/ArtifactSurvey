@@ -136,7 +136,9 @@ Instead what I am going to show you in the following sections is the "ranking" o
 
 Participants rated the game experience on a scale from 1 (not at all) to 5 (extremely), the items of the core questionnaire were then grouped into 11 dimensions. The ratings are shown here for the two participants subgroups and sorted in descendent order from top to bottom. The colors associated to each feature is the same in both charts so it is possible to capture differences between the groups at a glance. 
 <br>
-<img src="rating_core2.png" alt="" width="800" align="center"/>
+<p align="center">
+<img src="rating_core2.png" alt="" width="800"/>
+  </p>
 <br>
 
 There are some similarities and some striking differences in the ratings made by the two groups of participants. Starting from the top of the chart, aesthetics is the highest rated feture in both groups (4.3 frequent players and 3.7 infrquent players). Apparently all of the players consider the game exterior appearence, the sound the cards and boards design to be beautiful. This is pretty much the only thing in which the two group ratings are in strong agreement. As we look at the other two positions of the top 3, things start to diverge dramatically. The prevalent features for frequent players are satisfaction (4.1) and positive affect (3.8). For this group of players the sense of achievement coming from a victory, the feeling of progression due to personal effort and the fun of the game are prevalent aspects of the Artifact experience. They would totally recommend the game to a friend or a colleague. Quite the contrary for the group of infrequent players. They experience high levels of annoyance (3.6) and negative affect (3), meaning that they feel frustrated and tense while playing the game. For them Artifact is not engaging they are easily distracted or bored during a match and they often get nervous. That's not cool.
