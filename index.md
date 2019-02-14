@@ -159,6 +159,6 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 This two dimensions should be synergistic in providing a sense of satisfaction: if the game is hard but you feel you can master it, the achievements and the gratification of the victory should deliver some positive feelings. The features ranking seems to suggest that this is not the case for the infrequent players, however as we are going to discuss the following sections, this is misleading.
  
  <p align="center">
-<img src="RSA_frequent.png" alt="" width="500"/><img src="RSA_infrequent.png" alt="" width="500"/>
+<img src="RSA_frequent.png" alt="" width="400"/><img src="RSA_infrequent.png" alt="" width="400"/>
   </p>
 
