@@ -147,10 +147,10 @@ It is worth mentioning that for both groups, Artifact learnability is relatively
 Finally, while frequent player experience an average flow of around 3.5, for infrequent player this is one of the worst rated features. The sense of flow is the experience of deep concentration, dedication and engagement,  typical of someone enjoying a certain activity. It is also related with an intrinsic motivation to perform that activity, which make it inherently rewarding. 
 <br>
 
-<p align="right">
-<img src="rating_post.png" alt="" width="600" />
-</p>
-The ratings are somewhat consistent for the section related to the Artifact experience after-effectts. For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, or feel disconnected with reality.
+
+<img src="rating_post.png" alt="" width="600" align="right"/>
+<br>
+The ratings are somewhat consistent for the section related to the Artifact experience after-effectts. For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, or feel disconnected with reality.</p>
 
 
  
