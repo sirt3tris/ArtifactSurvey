@@ -149,7 +149,7 @@ Finally, while frequent player experience an average flow of around 3.5, for inf
 <br>
 
 
-<img src="rating_post2.png" alt="" width="650" align="left"/>
+<img src="rating_post2.png" alt="" width="650" align="right"/>
 <br>
 The ratings are somewhat consistent for the section related to the Artifact experience after-effects. <br>
 For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, and don't feel disconnected with reality.</p>
