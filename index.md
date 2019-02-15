@@ -156,9 +156,8 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 
 ### Exploring the relationships between pattern of features
 
-This two dimensions should be synergistic in providing a sense of satisfaction: if the game is hard but you feel you can master it, the achievements and the gratification of the victory should deliver some positive feelings. The features ranking seems to suggest that this is not the case for the infrequent players, however as we are going to discuss the following sections, this is misleading.
- 
+The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant features charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. In other words: what features are inherently related to  One step in how the features concur in providing different experiences. makes the game fun or unfun for the two groups. To make a step in this direction
  <p align="center">
 <img src="RSA_frequent.png" alt="" width="400"/><img src="RSA_infrequent.png" alt="" width="400"/>
   </p>
-
+This two dimensions should be synergistic in providing a sense of satisfaction: if the game is hard but you feel you can master it, the achievements and the gratification of the victory should deliver some positive feelings. The features ranking seems to suggest that this is not the case for the infrequent players, however as we are going to discuss the following sections, this is misleading.
