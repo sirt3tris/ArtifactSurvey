@@ -162,6 +162,13 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.
 
 
-## Discussion and future directions
+## Positive and negative aspects 
 
-On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
+Finally coming to the last section of the survey, I asked participants to list 3 positive and negative aspects about Artifact.
+Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. Below you can find another chart with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
+
+<p align="center">
+<img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="355"/> 
+<img src="freq_negative.png"  width="355"/><img src="infreq_negative.png"  width="355"/></p>
+<p align="center">
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
