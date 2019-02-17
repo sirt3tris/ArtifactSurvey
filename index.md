@@ -156,7 +156,7 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 ### Exploring the relationships between pattern of features
 <br>
 <p align="center">
-<img src="corr_mat_all.png" alt="" width="400"/>
+<img src="corr_mat_all2.png" alt="" width="400"/>
   </p>
 <br>
 The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.
