@@ -1,6 +1,6 @@
 # Introduction
 
-Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement of online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifct launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
+Artifact is a digital card game developed by Valve and released on November 28th, 2018. Despite the initial excitement of online gaming communities and internet personalities, the innovative mechanics and the depth of its strategic aspects, Artifact launch was a big flop. The player numbers started to dramatically drop following the game release, and Artifact reputation became controversial. As a consequence many streamers, youtubers and professional players decided not to commit time and resources in a game that was clearly not attracting enough interest. 
 According to the most popular opininons, Artifact insuccess seems to be driven by a combination of factors:
 - The lack of a proper ladder and rewards;
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
@@ -100,7 +100,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 
 ### Two types of Artifact player
 <img src="resourcess.png" alt="resource investment" width="500" align= "right"/>  </p>
-It's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between player that are fully engaged and those that are not very engaged with the game.   
+It's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between players that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
 
@@ -111,7 +111,7 @@ However, because of the small sample size and the unbalance between the groups (
     <td>Infrequent players</td>
   </tr>
   <tr>
-    <th>sample size:</th>
+    <th>Sample size:</th>
     <td>77</td>
     <td>21</td>
   </tr>
@@ -154,7 +154,7 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 <img src="corr_mat_all2.png" alt="" width="400"/>
   </p>
 <br>
-The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.<br>
+The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the features better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard to interpret.<br>
 I might try to develop develop a shorter version of the questionnaire with less items in the future, to specifically address this issue.
 
 
@@ -172,7 +172,7 @@ Participants listed a very colorful variety of praises and complaints. In order 
 
 >D) automatic camera zoom after every fucking action; E) certain unavoidable blowout situations e.g. turn 1 track->payday->horn or turn 2 double ramp into ToT; F) annihilation. the card singlehandedly shuts down so many lines of play and even entire deck archetypes, it's fucking broken and meta-warping and a total nightmare to gameplan around, and on top of that i'm pretty sure ramp and emissary and ToT only exist in their current form because annihilation exists to "keep them in check." that card and the consequences of its sheer existence make constructed like 90% less enjoyable than it could be. btw old cheating death was ALSO a consequence of annihilation (it functioned as green's annihilation counter) and the moment it got nerfed all non-ramp aspects of green became unplayable in constructed. that's how strong annihilation is. honestly it should've never been printed. /end rant
 
-I need to make some explicit remarks on how I categorized the opinions, as this was somehow arbitrary. I created some regular expressions to target specific pattern of opinions, therefore even if I tried to be general, I might have obfuscated some of the more precise judgement or generated some biases in the charts. below you find some examples of the expression I tried to match during the categorization.
+I need to make some explicit remarks on how I categorized the opinions, as this was somehow arbitrary. I created regular expressions to target specific pattern of opinions, therefore even if I tried to be general, I might have obfuscated some of the more precise judgement or generated some biases in the charts. Below you find some examples of the expressions I tried to match during the categorization.
 
 ### Positive aspects
 
@@ -201,7 +201,7 @@ I need to make some explicit remarks on how I categorized the opinions, as this 
 
 ### Charts
 
-Here you find the charts with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
+Here you find the charts with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represents the percentage of player (within the group) that expressed an opinion falling in a specific category.
 
 <p align="center">
 <img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
@@ -209,5 +209,5 @@ Here you find the charts with the ranking of the positive and negative Artifact 
 </p>
 
 There is an incredible consistency in the pattern of positive aspects listed by both groups of player. Gameplay, strategy and aesthetics are at the top 3, followed by the lore, competitivity, sound effects, market and innovation.
-Also regarding the negative aspects of the game, there seem to be a general agreement between frequent and infrequent players. Rewards, RNG and card balance appear in the top 3 for both groups, with infrequent players stressing more on the randomness of the game and frequent players highlignting the lack of rewards. Even if mentioned by many players in both groups, monetization surprisingly fail to reach the top 3. In line with the previous game experience evaluation, we find more complaints regarding the gameplay from the infrequent player side, whereas missing features (such as game replays and after-match stats) are exclusively mentioned by frequent players together with the social aspects of the game.
+Also regarding the negative aspects of the game, there seems to be a general agreement between frequent and infrequent players. Rewards, RNG and card balance appear in the top 3 for both groups, with infrequent players stressing more on the randomness of the game and frequent players highlignting the lack of rewards. Even if mentioned by many players in both groups, monetization surprisingly fail to reach the top 3. In line with the previous game experience evaluation, we find more complaints regarding the gameplay from the infrequent player side, whereas missing features (such as game replays and after-match stats) are exclusively mentioned by frequent players together with the social aspects of the game.
 
