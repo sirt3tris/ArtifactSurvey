@@ -165,10 +165,23 @@ The previous section shows a ranking of the feature ratings made by the two subg
 ## Positive and negative aspects 
 
 Finally coming to the last section of the survey, I asked participants to list 3 positive and negative aspects about Artifact.
-Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. Below you can find another chart with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
+Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. 
+
+>(A) Artifact has a lot of depth in its gameplay. This ensures a high skill ceiling and gives me opportunity to continuously improve. (B) Artifact caters to both rich and poor players as it has both well implemented Constructed and Draft formats. (C) Artifact feels premium. It has great UI, Soundtrack and Voice Acting.
+
+I need to make some explicit remarks on how I categorized the opinions, as this is somewhat arbitrary. I created some pattern of
+
+### Positive aspects
+
+- Gameplay
+
+Below you can find another chart with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
 
 <p align="center">
 <img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
 <img src="freq_negative.png"  width="320"/><img src="infreq_negative.png"  width="320"/></p>
-<p align="center">
-  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
+</p>
+
+There is an incredible consistency in the pattern of positive aspects listed by both groups of player. Gameplay, strategy and aesthetics are at the top 3, followed by the lore, competitivity, sound effects, market and innovation.
+Also regarding the negative aspects of the game, there seem to be a general agreement between frequent and infrequent players. Rewards, RNG and card balance are the top 3 are some discrepancies between the two groups. Frequent pla
+
