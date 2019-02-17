@@ -154,7 +154,8 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 <img src="corr_mat_all2.png" alt="" width="400"/>
   </p>
 <br>
-The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.
+The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.<br>
+I might try to develop develop a shorter version of the questionnaire with less items in the future, to specifically address this issue.
 
 
 ## Positive and negative aspects 
@@ -200,7 +201,7 @@ I need to make some explicit remarks on how I categorized the opinions, as this 
 
 ### Charts
 
-Below you can find the charts with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
+Here you find the charts with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
 
 <p align="center">
 <img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
