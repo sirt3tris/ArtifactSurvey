@@ -168,7 +168,7 @@ Finally coming to the last section of the survey, I asked participants to list 3
 Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. Below you can find another chart with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
 
 <p align="center">
-<img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="355"/> 
-<img src="freq_negative.png"  width="355"/><img src="infreq_negative.png"  width="355"/></p>
+<img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
+<img src="freq_negative.png"  width="320"/><img src="infreq_negative.png"  width="320"/></p>
 <p align="center">
   <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
