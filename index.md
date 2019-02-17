@@ -154,7 +154,10 @@ The ratings are somewhat consistent for the section related to the Artifact expe
 For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, and don't feel disconnected with reality.</p>
 
 ### Exploring the relationships between pattern of features
+<br>
 
+<img src="corr_mat_all.png" alt="" width="650" align="center"/>
+<br>
 The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.
 
 
