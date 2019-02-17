@@ -160,4 +160,4 @@ The previous section shows a ranking of the feature ratings made by the two subg
 
 ## Discussion and future directions
 
-The outcome of this survey that Artifact experience is substantially different for frequent and infrequent platyers
+On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
