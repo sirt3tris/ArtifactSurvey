@@ -11,7 +11,7 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 <p align="center">
   <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
 
-I tried to follow the development of these these what aggiungi sostantivo and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
+I tried to follow the development of these complaints and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
 
@@ -148,7 +148,6 @@ It is worth mentioning that for both groups, Artifact learnability is relatively
 Finally, while frequent player experience an average flow of around 3.5, for infrequent player this is one of the worst rated features (2.1). The sense of flow is the experience of deep concentration, dedication and engagement,  typical of someone enjoying a certain activity. It is related with an intrinsic motivation to perform that activity, which makes it inherently rewarding. 
 <br>
 
-
 <img src="rating_post2.png" alt="" width="650" align="right"/>
 <br>
 The ratings are somewhat consistent for the section related to the Artifact experience after-effects. <br>
@@ -156,8 +155,9 @@ For the frequent players positive experience is the dominant feature (3.0), foll
 
 ### Exploring the relationships between pattern of features
 
-The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant features charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. In other words: what features are inherently related to  One step in how the features concur in providing different experiences. makes the game fun or unfun for the two groups. To make a step in this direction
- <p align="center">
-<img src="RSA_frequent.png" alt="" width="400"/><img src="RSA_infrequent.png" alt="" width="400"/>
-  </p>
-This two dimensions should be synergistic in providing a sense of satisfaction: if the game is hard but you feel you can master it, the achievements and the gratification of the victory should deliver some positive feelings. The features ranking seems to suggest that this is not the case for the infrequent players, however as we are going to discuss the following sections, this is misleading.
+The previous section shows a ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising player experiences. However it doesn't clarify what is important in defining the player positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the feature better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard ot interpret.
+
+
+## Discussion and future directions
+
+The outcome of this survey that Artifact experience is substantially different for frequent and infrequent platyers
