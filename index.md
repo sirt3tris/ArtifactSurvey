@@ -6,11 +6,6 @@ According to the most popular opininons, Artifact insuccess seems to be driven b
 - The monetization system requires to pay to obtain cards and access the most competitive game modalities;
 - The game price is 20$.
 
-<p align="center">
-<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
-<p align="center">
-  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
-
 I tried to follow the development of these complaints and other opinions from their early formulations to the point they became inflated memes and shitposting actions on Reddit, Twitter and Twitch, realizing that the reasons behind the game insuccess might be more complex than "just" its price, monetization and reward system. 
 Is it possible that people simply don't like playing the game? Could it be that it is just boring or not engaging enough? And if so, what is actually wrong with the game? 
 On this page you will find the outcome of a spontaneous and independent survey contucted on r/Artifact with the goal of exploring how players approach Artifact, how they feel when playing the game, how often they play it and what they like/dislike about it.
@@ -164,18 +159,48 @@ The previous section shows a ranking of the feature ratings made by the two subg
 
 ## Positive and negative aspects 
 
+<p align="center">
+<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
+<p align="center">
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
+
 Finally coming to the last section of the survey, I asked participants to list 3 positive and negative aspects about Artifact.
-Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. 
+Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two group of players, I decided to classify them in categories. Below you find a couple of quotations directly taken from the outcome of this section: 
 
 >(A) Artifact has a lot of depth in its gameplay. This ensures a high skill ceiling and gives me opportunity to continuously improve. (B) Artifact caters to both rich and poor players as it has both well implemented Constructed and Draft formats. (C) Artifact feels premium. It has great UI, Soundtrack and Voice Acting.
 
-I need to make some explicit remarks on how I categorized the opinions, as this is somewhat arbitrary. I created some pattern of
+>D) automatic camera zoom after every fucking action; E) certain unavoidable blowout situations e.g. turn 1 track->payday->horn or turn 2 double ramp into ToT; F) annihilation. the card singlehandedly shuts down so many lines of play and even entire deck archetypes, it's fucking broken and meta-warping and a total nightmare to gameplan around, and on top of that i'm pretty sure ramp and emissary and ToT only exist in their current form because annihilation exists to "keep them in check." that card and the consequences of its sheer existence make constructed like 90% less enjoyable than it could be. btw old cheating death was ALSO a consequence of annihilation (it functioned as green's annihilation counter) and the moment it got nerfed all non-ramp aspects of green became unplayable in constructed. that's how strong annihilation is. honestly it should've never been printed. /end rant
+
+I need to make some explicit remarks on how I categorized the opinions, as this was somehow arbitrary. I created some regular expressions to target specific pattern of opinions, therefore even if I tried to be general, I might have obfuscated some of the more precise judgement or generated some biases in the charts. below you find some examples of the expression I tried to match during the categorization.
 
 ### Positive aspects
 
-- Gameplay
+- Gameplay: cards, heroes, lanes, mechanics, gameplay, initiative and other game design features.
+- Strategy: strategy, decisions, abilities, skills, complexity, and depth.
+- Aesthetics: graphics,visuals, aesthetics, polish, art, beauty.
+- Lore: dota, lore, story, theme.
+- Competitivity: challenge, competitive, tournaments, e-sports.
+- Sound effects: sound effects, voices, actors.
+- Market: cheap, free, trading, tgc, market, buy, price.
+- Innovation: innovative, new, creativity, variety.
 
-Below you can find another chart with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
+### Negative aspects
+
+
+- Gameplay: boring, complex, long.
+- Monetization: money, buiness, cost, tickets, pay.
+- RNG: rng, random.
+- Progression: progression, ladder.
+- Rewards: rewards, incentives.
+- Features: bugs, crash, replay, stats.
+- (Im)Balance: balance, cards, overpowered.
+- Variety: diversity, variety.
+- Playerbase: players, playerbase.
+- Social: social, community, tournaments.
+
+### Charts
+
+Below you can find the charts with the ranking of the positive and negative Artifact opinions for frequent and infrequent player. The chart Y axis represent the percentage of player (within the group) that expressed an opinion falling in a specific category.
 
 <p align="center">
 <img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
@@ -183,5 +208,5 @@ Below you can find another chart with the ranking of the positive and negative A
 </p>
 
 There is an incredible consistency in the pattern of positive aspects listed by both groups of player. Gameplay, strategy and aesthetics are at the top 3, followed by the lore, competitivity, sound effects, market and innovation.
-Also regarding the negative aspects of the game, there seem to be a general agreement between frequent and infrequent players. Rewards, RNG and card balance are the top 3 are some discrepancies between the two groups. Frequent pla
+Also regarding the negative aspects of the game, there seem to be a general agreement between frequent and infrequent players. Rewards, RNG and card balance appear in the top 3 for both groups, with infrequent players stressing more on the randomness of the game and frequent players highlignting the lack of rewards. Even if mentioned by many players in both groups, monetization surprisingly fail to reach the top 3. In line with the previous game experience evaluation, we find more complaints regarding the gameplay from the infrequent player side, whereas missing features (such as game replays and after-match stats) are exclusively mentioned by frequent players together with the social aspects of the game.
 
