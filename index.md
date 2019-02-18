@@ -40,7 +40,7 @@ The remaining 4 dimensions were measuring game experience after-effects:
 
 ## A closer look at the participants sample
 
-<img src="gamess.png" alt="" width="270" align="left"/>
+<img src="gamess.png" alt="" width="300" align="left"/>
 
 <br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 4 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly the majority of respondents mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample plays card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. 
@@ -105,7 +105,7 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 It's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between players that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 
-
+<p align="center">
 <table>
   <tr>
     <th>Group:</th>
@@ -128,6 +128,8 @@ However, because of the small sample size and the unbalance between the groups (
     <td>31.2</td>
       </tr>
 </table>
+</p>
+
 Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by the two subgroups. In this way it might be possible to have a general idea of the differences charachterizing the gaming experience of the two subgroups (without drawing any conclusion on the general population).
 
 ## Artifact experience evaluation
@@ -137,7 +139,6 @@ Participants rated the game experience on a scale from 1 (not at all) to 5 (extr
 <p align="center">
 <img src="rating_core3.png" alt="" width="800"/>
   </p>
-<br>
 
 There are some similarities and some striking differences in the ratings of the two groups. Starting from the top of the charts, aesthetics is the highest rated feature in both groups (4.3 frequent players and 3.7 infrequent players). All of the players consider the game exterior appearence, the sound, the cards and boards design to be beautiful. This is pretty much the only dimension in which the two group ratings are in strong agreement. <br>
 As we look at the other two positions of the top 3, things start to diverge dramatically. The prevalent features for frequent players are satisfaction (4.1) and positive affect (3.8). For this group the sense of achievement coming from a victory, the feeling of progression due to personal effort and the fun of the game are prevalent aspects of the Artifact experience. They would totally recommend the game to a friend or a colleague. Quite the contrary for the group of infrequent players: they experience high levels of annoyance (3.6) and negative affect (3). This means that they feel tense and frustrated while playing the game. For them Artifact is not engaging and they are easily distracted or bored during a match. <br>
@@ -151,11 +152,11 @@ The ratings are somewhat consistent for the section related to the Artifact expe
 For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, and don't feel disconnected with reality.
 
 ### Exploring the relationships between pattern of features
-<br>
+
 <p align="center">
 <img src="corr_mat_all2.png" alt="" width="400"/>
   </p>
-<br>
+
 The previous section shows the ranking of the feature ratings made by the two subgroups of participants. This comparison is interesting by itself, as it shows the dominant elements charachterising players experiences. However it doesn't clarify what is important in defining the players positive or negative experience in the two groups. One approach to address this issue could be to run a regression analysis and observe which of the features better predicts the rating in "positive experience" in the two groups. However, because the dimensions of the questionnaire are inherently correlated with each other, the importance of each feature in explaining "positive experience" would be hard to interpret.<br>
 I might try to develop develop a shorter version of the questionnaire with less items in the future, to specifically address this issue.
 
@@ -166,7 +167,7 @@ I might try to develop develop a shorter version of the questionnaire with less 
 <img src="neg_cloud.png" width="320"/>    <img src="pos_cloud.png" width="355"/> </p>
 <p align="center">
   <br>
-  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i></p><br>
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i></p>
 
 Finally coming to the last section of the survey, I asked participants to list 3 positive and negative aspects about Artifact.
 Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two groups of players, I decided to classify them in categories. Below you find a couple of quotations directly taken from the outcome of this section: 
@@ -208,7 +209,7 @@ Here you find the charts with the ranking of the positive and negative Artifact 
 
 <p align="center">
 <img src="freq_positive.png" alt="" width="320"/>    <img src="infreq_positive.png" width="320"/> 
-<img src="freq_negative.png"  width="320"/><img src="infreq_negative.png"  width="320"/></p>
+<img src="freq_negative.png"  width="320"/><img src="infreq_negative.png"  width="320"/>
 </p>
 
 There is an incredible consistency in the pattern of positive aspects listed by both groups of players. Gameplay, strategy and aesthetics are at the top 3, followed by the lore, competitivity, sound effects, market and innovation.
