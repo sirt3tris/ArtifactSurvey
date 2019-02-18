@@ -106,9 +106,8 @@ It's worth noting that the sample of participants could be split into at least t
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 
 
-<div style="text-align:center;">
-    <table>
-
+<div style="overflow-x:auto;">
+<table>
   <tr>
     <th>Group:</th>
     <td>Frequent players</td>
@@ -130,7 +129,7 @@ However, because of the small sample size and the unbalance between the groups (
     <td>31.2</td>
       </tr>
     </table>
-  </div>
+</div>
 
 Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by the two subgroups. In this way it might be possible to have a general idea of the differences charachterizing the gaming experience of the two subgroups (without drawing any conclusion on the general population).
 
