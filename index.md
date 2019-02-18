@@ -117,6 +117,7 @@ However, because of the small sample size and the unbalance between the groups (
     <td>77</td>
     <td>21</td>
   </tr>
+  <tr>
    <th>Mean amount of hours:</th>
     <td>113.8</td>
     <td>52.5</td>
@@ -147,7 +148,7 @@ Finally, while frequent players experience an average flow of around 3.5, for in
 <img src="rating_post2.png" alt="" width="650" align="right"/>
 <br>
 The ratings are somewhat consistent for the section related to the Artifact experience after-effects. <br>
-For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, and don't feel disconnected with reality.</p>
+For the frequent players positive experience is the dominant feature (3.0), followed by tiredness (2.5) and negative experience (1.8). For infrequent players instead is tiredness being at the top of the chart (2.7) followed by negative experience (2.4) and positive experience (1.8). Both groups experience low levels of return to reality, which means that they don't think too much about the game after they stop playing, and don't feel disconnected with reality.
 
 ### Exploring the relationships between pattern of features
 <br>
@@ -162,9 +163,10 @@ I might try to develop develop a shorter version of the questionnaire with less 
 ## Positive and negative aspects 
 
 <p align="center">
-<img src="neg_cloud.png" alt="complaints" width="320"/>    <img src="pos_cloud.png" src="positive" width="355"/> </p>
+<img src="neg_cloud.png" width="320"/>    <img src="pos_cloud.png" width="355"/> </p>
 <p align="center">
-  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i><br>
+  <br>
+  <i>Wordclouds of the most common negative (left) and positive (right) aspects of Artifact. Data collected from the survey's qualitative section</i></p><br>
 
 Finally coming to the last section of the survey, I asked participants to list 3 positive and negative aspects about Artifact.
 Participants listed a very colorful variety of praises and complaints. In order to make sense out of them and compare the opinions of our two groups of players, I decided to classify them in categories. Below you find a couple of quotations directly taken from the outcome of this section: 
