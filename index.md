@@ -40,7 +40,7 @@ The remaining 4 dimensions were measuring game experience after-effects:
 
 ## A closer look at the participants sample
 
-<img src="gamess.png" alt="" width="300" align="left"/>
+<img src="gamess.png" alt="" width="350" align="left"/>
 
 <br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 4 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
 The first thing we want to check is our players gaming background. Not surprisingly the majority of respondents mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample plays card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. 
@@ -105,8 +105,8 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 It's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between players that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 
-<p align="center">
-<table>
+
+<table align= "center">
   <tr>
     <th>Group:</th>
     <td>Frequent players</td>
@@ -128,7 +128,7 @@ However, because of the small sample size and the unbalance between the groups (
     <td>31.2</td>
       </tr>
 </table>
-</p>
+
 
 Instead what I am going to show you in the following sections is the "ranking" of the features evaluated by the two subgroups. In this way it might be possible to have a general idea of the differences charachterizing the gaming experience of the two subgroups (without drawing any conclusion on the general population).
 
