@@ -13,7 +13,7 @@ On this page you will find the outcome of a spontaneous and independent survey c
 
 ## The Artifact player experience survey 
 
-The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire (GEQ - IJsselsteijn, de Kort & Poels, 2013) and the MEEGA+ questionnaires (Petri, Gresse von Wangenheim, Borgatto, 2018), that have been previously used to evaluate gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
+The survey consisted of 5 sections: the first was to collect demographic information, such as how often people play the game and which game modality, to contextualize the subsequent game evaluation. The second, third and fourth sections included a total of 70 items adapted from the Game Experience Questionnaire - [GEQ](https://pure.tue.nl/ws/files/21666907/Game_Experience_Questionnaire_English.pdf) [1] and the [MEEGA+ questionnaire](http://www.incod.ufsc.br/wp-content/uploads/2018/03/Relatorio-Tecnico-INCoD_GQS_05_2018_E.pdf) [2], that have been previously used to evaluate gaming experience in various contexts. These consistituted the quantitative part of the game experience evaluation. Finally the last section aimed at collecting qualitative information, by asking participants to list 3 positive and negative aspects related to Artifact.
 
 ### Artifact experience in 15 dimensions
 
@@ -136,12 +136,11 @@ Participants rated the game experience on a scale from 1 (not at all) to 5 (extr
   </p>
 <br>
 
-There are some similarities and some striking differences in the ratings of the two groups. Starting from the top of the chart, aesthetics is the highest rated feture in both groups (4.3 frequent players and 3.7 infrquent players). All of the players consider the game exterior appearence, the sound, the cards and boards design to be beautiful. This is pretty much the only dimension in which the two group ratings are in strong agreement. <br>
+There are some similarities and some striking differences in the ratings of the two groups. Starting from the top of the charts, aesthetics is the highest rated feture in both groups (4.3 frequent players and 3.7 infrquent players). All of the players consider the game exterior appearence, the sound, the cards and boards design to be beautiful. This is pretty much the only dimension in which the two group ratings are in strong agreement. <br>
 As we look at the other two positions of the top 3, things start to diverge dramatically. The prevalent features for frequent players are satisfaction (4.1) and positive affect (3.8). For this group the sense of achievement coming from a victory, the feeling of progression due to personal effort and the fun of the game are prevalent aspects of the Artifact experience. They would totally recommend the game to a friend or a colleague. Quite the contrary for the group of infrequent players: they experience high levels of annoyance (3.6) and negative affect (3). This means that they feel tense and frustrated while playing the game. For them Artifact is not engaging and they are easily distracted or bored during a match. <br>
 The 4th and 5th positions of the charts are occupied by competence and challenge, with competence being more dominant for the frequent players and challenge for the infrequent players. Competence is the sense of being skillful at the game whereas challenge is a measure for the game difficulty. 
-It is worth mentioning that for both groups, Artifact learnability is relatively low, which means that the game rules are perceived as complex and not easy to grasp from the tutorial. Also worth noting that the social aspects of the game fill the bottom three chart for both groups. The game is not considered to be interactive or that cooperation and competition are not incentivized.<br>
+It is worth mentioning that for both groups, Artifact learnability is relatively low, which means that the game rules are perceived as complex and not easy to grasp from the tutorial. Also worth noting that the social aspects of the game is located at the bottom three of the ranks for both groups. The game is not considered to be interactive, cooperation and competition are perceived as not incentivized.<br>
 Finally, while frequent player experience an average flow of around 3.5, for infrequent player this is one of the worst rated features (2.1). The sense of flow is the experience of deep concentration, dedication and engagement,  typical of someone enjoying a certain activity. It is related with an intrinsic motivation to perform that activity, which makes it inherently rewarding. 
-<br>
 
 <img src="rating_post2.png" alt="" width="650" align="right"/>
 <br>
@@ -231,4 +230,9 @@ If you have any question feel free to contact me at ages914@gmail.com
 
 
 
+### References
+
+[1] IJsselsteijn, W. A., de Kort, Y. A. W., & Poels, K. (2013). _The Game Experience Questionnaire_. Eindhoven: Technische Universiteit Eindhoven.
+
+[2] Petri, G., Gresse von Wangenheim, C., Borgatto, A.F. (2018) _MEEGA+, Systematic Model to Evaluate Educational Games_. In: Lee N. (eds) Encyclopedia of Computer Graphics and Games. Springer.
 
