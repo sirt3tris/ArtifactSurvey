@@ -43,7 +43,7 @@ The remaining 4 dimensions were measuring game experience after-effects:
 <img src="gamess.png" alt="" width="270" align="left"/>
 
 <br>The global sample of the respondents consisted of 105 players. Among these, 3 didn't complete all the sections of the survey and 4 explicitly claimed they never played Artifact. These respondents were excluded from the analysis, leading to a sample of 98 participants (2 female, mean age = 27.9 ± 6.5).
-The first thing we want to check is our players gaming background. Not surprisingly the majority of respondents mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample plays card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. </p>
+The first thing we want to check is our players gaming background. Not surprisingly the majority of respondents mentioned Dota2, Hearthstone and Mtg/Mtga as games they regularly play. These are indeed the popular games more closely related to Artifact in terms of lore, gametype or developers. Alltogether 65% of the sample plays card games and quite interestingly, nearly 25% mentioned the two FPS which follow the top 3 on the chart: Overwatch and CS:GO. 
 <br>
 <div style="overflow-x:auto;">
 <table>
@@ -99,7 +99,8 @@ Respondents where asked to indicate their most played Artifact game modality. Th
 
 
 ### Two types of Artifact player
-<img src="resourcess.png" alt="resource investment" width="500" align= "right"/>  </p>
+<p>
+<img src="resourcess.png" alt="resource investment" width="500" align= "right"/> 
 It's worth noting that the sample of participants could be split into at least two groups: the frequent and the infrequent players. This rough subdivision is interesting because it might capture the differences between players that are fully engaged and those that are not very engaged with the game.   
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 </p>
