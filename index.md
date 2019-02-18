@@ -106,7 +106,7 @@ It's worth noting that the sample of participants could be split into at least t
 However, because of the small sample size and the unbalance between the groups (77 frequent and 21 infrequent), I decided not to run statistical tests to compare the two groups as it would not be very meaningful.
 
 
-<table align= "center">
+<table align="center" style="margin: 0px auto;">
   <tr>
     <th>Group:</th>
     <td>Frequent players</td>
